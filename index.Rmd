@@ -15,7 +15,7 @@ editor_options:
 
 # let's add some links
 
-I often use [google](google.com) to do **data sciences**.
+I often use [google](https://www.google.com/) to do **data sciences**.
 
 # let's add an image
 
